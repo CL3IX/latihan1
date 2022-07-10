@@ -1,0 +1,341 @@
+body {
+  background-color: #f8f9fa;
+}
+
+footer a:hover,
+footer a:link,
+footer a:active {
+  color: white;
+  text-decoration: none;
+}
+
+footer,
+a {
+  color: white;
+}
+
+@media only screen and (min-width: 1025px) {
+  .login {
+    margin-left: 31rem;
+    margin-right: 1rem;
+  }
+
+  .tombol {
+    padding: 8px 25px;
+  }
+
+  .gbr {
+    margin-top: 4rem;
+    height: 350px;
+  }
+
+  .tlsn {
+    margin-top: 3rem;
+  }
+
+  .tombol2 {
+    margin-left: 1rem;
+  }
+
+  .caya {
+    margin-top: 7rem;
+  }
+
+  .foto1 {
+    margin-left: 1rem;
+  }
+  .foto2 {
+    margin-left: 2rem;
+    padding-bottom: 5px;
+  }
+  .foto3 {
+    margin-left: 1rem;
+  }
+  .foto4 {
+    margin-left: 2rem;
+  }
+
+  .foto5 {
+    margin-left: 1rem;
+  }
+
+  .tlsnkartu {
+    margin-top: 1rem;
+  }
+
+  .kartu {
+    margin-top: 5rem;
+  }
+
+  .tombolkartu {
+    width: 280px;
+  }
+
+  .langganan {
+    margin-top: 6rem;
+  }
+
+  .tombollangganan {
+    width: 250px;
+    margin-top: 1rem;
+  }
+
+  .tlsnbest {
+    margin-top: 1rem;
+  }
+
+  .about {
+    margin-top: 5rem;
+  }
+
+  .gbrabout {
+    margin-top: 1rem;
+    height: 60px;
+  }
+
+  .tlsnabout {
+    margin-top: 10px;
+  }
+
+  .testimoni {
+    margin-top: 7rem;
+  }
+
+  .nama {
+    padding-left: 10px;
+  }
+
+  .tombolcontact {
+    margin-top: 1rem;
+  }
+
+  .contact {
+    padding-top: 2rem;
+    margin-left: 6rem;
+  }
+
+  .aboutct {
+    width: 800px;
+    height: 370px;
+    display: block;
+    padding: 0%;
+  }
+
+  .aboutcontact {
+    margin-top: 7rem;
+  }
+
+  .tulisancu {
+    padding-left: 10rem;
+    padding-bottom: 1rem;
+  }
+
+  .footerjrk {
+    margin-top: 2rem;
+    padding-bottom: 3rem;
+  }
+
+  .bg21 {
+    margin-top: 55px;
+  }
+
+  .bg2 {
+    margin-top: 55px;
+    padding-left: 7px;
+  }
+
+  .bg3 {
+    margin-top: 55px;
+    padding-left: 3rem;
+  }
+
+  .dld {
+    margin-top: 54px;
+    margin-left: 10rem;
+  }
+
+  .gbr7 {
+    height: 60px;
+  }
+
+  .google {
+    margin-left: 1rem;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .gbr {
+    height: 300px;
+    width: 340px;
+    padding-top: 2rem;
+  }
+
+  .tombol {
+    padding: 10px 110px;
+  }
+
+  .tombol2 {
+    margin-top: 1rem;
+    padding: 10px 100px;
+  }
+
+  .foto0 {
+    padding-left: 6rem;
+  }
+
+  .foto1 {
+    margin-top: -53px;
+    padding-right: 4rem;
+    padding-left: 6rem;
+  }
+  .foto2 {
+    margin-top: -1rem;
+    padding-right: 4rem;
+    padding-left: 7rem;
+  }
+  .foto3 {
+    margin-top: -47px;
+    padding-right: 4rem;
+    padding-left: 100px;
+  }
+  .foto4 {
+    margin-top: -1rem;
+    padding-right: 4rem;
+    padding-left: 120px;
+  }
+
+  .foto5 {
+    margin-top: -55px;
+    padding-right: 4rem;
+    padding-left: 6rem;
+  }
+
+  .caya {
+    text-align: center;
+    margin-top: 2rem;
+  }
+
+  .cd1 {
+    padding-top: 2rem;
+    padding-left: 10px;
+  }
+
+  .cd2 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .cd3 {
+    padding-left: 24px;
+  }
+
+  .cd4 {
+    margin-bottom: 1rem;
+  }
+
+  .tombolkartu {
+    padding: 10px 87px;
+  }
+
+  .tombollangganan {
+    padding: 10px 87px;
+    margin-left: 10px;
+    margin-top: 2rem;
+  }
+
+  .about {
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+  }
+
+  .gbrabout {
+    margin-top: 1rem;
+    height: 50px;
+  }
+
+  .gbrmb {
+    margin-top: -3rem;
+  }
+
+  .tlsnpk1 {
+    padding-bottom: 1rem;
+  }
+
+  .tlsnpk2 {
+    margin-top: 1rem;
+  }
+
+  .tlsnpk3 {
+    margin-top: -2rem;
+  }
+
+  .testimoni {
+    padding-top: 6rem;
+  }
+
+  .gbr7 {
+    height: 70px;
+    margin-bottom: 2rem;
+    margin-right: 2rem;
+  }
+
+  .gbr77 {
+    text-align: center;
+  }
+
+  .gbr10 {
+    padding-bottom: 4rem;
+  }
+
+  .aboutcontact {
+    padding-bottom: 2rem;
+    width: 340px;
+    padding-left: 26px;
+  }
+
+  .contact {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+
+  .email {
+    padding-top: 1rem;
+  }
+
+  .Pesan {
+    padding-top: 1rem;
+  }
+
+  .logo {
+    padding-bottom: 1rem;
+  }
+
+  .icn {
+    padding-bottom: 1rem;
+  }
+
+  .bg2 {
+    padding-top: 1rem;
+  }
+
+  .bg3 {
+    padding-top: 1rem;
+  }
+
+  .dld {
+    padding-top: 1rem;
+  }
+
+  .dld button {
+    padding: 10px 100px;
+  }
+
+  .apple {
+    margin-bottom: 1rem;
+    margin-left: 20px;
+  }
+
+  .google {
+    margin-left: 20px;
+  }
+}
